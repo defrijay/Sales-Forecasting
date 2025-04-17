@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Defrizal Yahdiyan Risyad
+# Laporan Proyek Sales Forecasting - Defrizal Yahdiyan Risyad
 
 ## Project Overview
 
@@ -91,7 +91,3 @@ Visualisasi hasil prediksi menunjukkan bahwa model Prophet dapat menangkap tren 
 Proses visualisasi komponen tren dan musiman menggunakan `model.plot_components(forecast)` menunjukkan bahwa data memiliki pola musiman yang jelas setiap tahun, serta tren naik yang signifikan.
 
 ---
-
-_Catatan:_  
-- _Dokumentasi ini dapat ditambahkan dengan gambar atau grafik lain yang mendukung visualisasi hasil._
-- _Jangan lupa menyertakan referensi tambahan atau penelitian terkait yang relevan dengan proyek ini._
