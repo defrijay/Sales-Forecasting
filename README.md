@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Pada proyek ini, kami bertujuan untuk melakukan **forecasting penjualan** menggunakan model Prophet. Proyek ini bertujuan untuk membantu bisnis dalam memprediksi jumlah penjualan di masa depan, sehingga mereka dapat merencanakan stok dan strategi pemasaran dengan lebih baik.
+Pada proyek ini, saya bertujuan untuk melakukan **forecasting penjualan** menggunakan model Prophet. Proyek ini bertujuan untuk membantu bisnis dalam memprediksi jumlah penjualan di masa depan, sehingga mereka dapat merencanakan stok dan strategi pemasaran dengan lebih baik.
 
 **Referensi**:
 - [A Comparative Study on Forecasting of Retail Sales](https://arxiv.org/abs/2203.06848)
